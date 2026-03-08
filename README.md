@@ -7,13 +7,6 @@
 ![Security](https://img.shields.io/badge/security-SHA--256-blue.svg)
 ![Formats](https://img.shields.io/badge/formats-PNG%20%7C%20JPG%20%7C%20MP3%20%7C%20MP4-orange.svg)
 [![Made with](https://img.shields.io/badge/Made%20with-HTML%20%7C%20CSS%20%7C%20JS-red.svg)](#)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-
-<img src="https://img.icons8.com/fluency/96/null/invisible.png" width="80" height="80">
-<img src="https://img.icons8.com/fluency/96/null/lock.png" width="80" height="80">
-<img src="https://img.icons8.com/fluency/96/null/image-file.png" width="80" height="80">
-<img src="https://img.icons8.com/fluency/96/null/audio-file.png" width="80" height="80">
-<img src="https://img.icons8.com/fluency/96/null/video-file.png" width="80" height="80">
 
 <h3><i>Hide secrets in plain sight using advanced steganography techniques</i></h3>
 
