@@ -31,33 +31,6 @@
 
 ## 🌟 Overview
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.icons8.com/fluency/96/null/incognito.png" width="60"/><br/>
-        <b>Covert</b>
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/fluency/96/null/security-check.png" width="60"/><br/>
-        <b>Secure</b>
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/fluency/96/null/multi-edit.png" width="60"/><br/>
-        <b>Multi-Format</b>
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/fluency/96/null/password.png" width="60"/><br/>
-        <b>Protected</b>
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/fluency/96/null/verified-badge.png" width="60"/><br/>
-        <b>Verified</b>
-      </td>
-    </tr>
-  </table>
-</div>
-
 ### What is Steganography?
 
 **Steganography** is the practice of concealing secret messages within ordinary, non-secret digital media. Unlike cryptography, which scrambles a message to make it unreadable, steganography hides the very **existence** of the message itself.
@@ -144,10 +117,6 @@ graph TD
 </div>
 
 ### 🖼️ Image Steganography
-
-<div align="center">
-  <img src="https://via.placeholder.com/600x200?text=Pixel+LSB+Modification+Visualization" alt="LSB Visualization" width="80%"/>
-</div>
 
 Image steganography hides secret data within an image **without altering its visible appearance**.
 
@@ -483,7 +452,7 @@ open steganography_system.html
 
 ---
 
-### 🤝 Collaborative Work
+### 🫱🏻‍🫲🏼 Collaborative Work
 
 | Activity | Approach |
 |:--------:|:--------|
